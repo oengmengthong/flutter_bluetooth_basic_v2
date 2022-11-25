@@ -1,4 +1,4 @@
-group 'com.mengthong.flutter_bluetooth_basic_v2'
+group 'com.oengmengthong.flutter_bluetooth_basic_v2'
 version '1.0'
 
 buildscript {
