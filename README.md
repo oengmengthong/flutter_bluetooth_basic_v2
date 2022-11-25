@@ -46,4 +46,5 @@ await bluetoothManager.disconnect();
 ```
 
 ## See also
-* Example of usage in a project: [esc_pos_printer](https://github.com/andrey-ushakov/esc_pos_printer)
+
+[//]: # (* Example of usage in a project: [esc_pos_printer]&#40;https://github.com/andrey-ushakov/esc_pos_printer&#41;)

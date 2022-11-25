@@ -1,3 +1,7 @@
+## 0.0.4
+
+- Update Read me
+
 ## 0.0.3
 
 - Fix Bugs
