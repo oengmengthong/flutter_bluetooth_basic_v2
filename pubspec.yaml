@@ -26,6 +26,6 @@ flutter:
     platforms:
       android:
         package: com.oengmengthong.flutter_bluetooth_basic_v2
-        pluginClass: FlutterBluetoothBasicPlugin
+        pluginClass: FlutterBluetoothBasicV2Plugin
       ios:
-        pluginClass: FlutterBluetoothBasicPlugin
+        pluginClass: FlutterBluetoothBasicV2Plugin
